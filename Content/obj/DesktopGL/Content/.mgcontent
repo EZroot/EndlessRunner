@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/1-sheet.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/ground-grass.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/ground-object.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/ground-pixel.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/idle-sheet.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/jump-sheet.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-bg.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-foreground-trees.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-montain-far.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-mountains.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-trees.png</File>
+    <File>/home/ezroot/Repos/EndlessRunner/Content/slide-sheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

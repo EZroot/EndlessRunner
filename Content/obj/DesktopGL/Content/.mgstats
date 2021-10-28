@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/ezroot/Repos/EndlessRunner/Content/1-sheet.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/1-sheet.xnb","TextureProcessor","Texture2DContent",3059,258133,0.2863379
+"/home/ezroot/Repos/EndlessRunner/Content/ground-grass.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/ground-grass.xnb","TextureProcessor","Texture2DContent",146,4181,0.1755557
+"/home/ezroot/Repos/EndlessRunner/Content/ground-object.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/ground-object.xnb","TextureProcessor","Texture2DContent",945,16469,0.1751507
+"/home/ezroot/Repos/EndlessRunner/Content/ground-pixel.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/ground-pixel.xnb","TextureProcessor","Texture2DContent",421,4181,0.0013901
+"/home/ezroot/Repos/EndlessRunner/Content/idle-sheet.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/idle-sheet.xnb","TextureProcessor","Texture2DContent",1787,225877,0.2173835
+"/home/ezroot/Repos/EndlessRunner/Content/jump-sheet.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/jump-sheet.xnb","TextureProcessor","Texture2DContent",1399,96853,0.006416
+"/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-bg.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/parallax-mountain-bg.xnb","TextureProcessor","Texture2DContent",2025,174165,0.1742068
+"/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-foreground-trees.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/parallax-mountain-foreground-trees.xnb","TextureProcessor","Texture2DContent",6703,348245,0.0164276
+"/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-montain-far.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/parallax-mountain-montain-far.xnb","TextureProcessor","Texture2DContent",1093,174165,0.0082915
+"/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-mountains.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/parallax-mountain-mountains.xnb","TextureProcessor","Texture2DContent",4729,348245,0.0116487
+"/home/ezroot/Repos/EndlessRunner/Content/parallax-mountain-trees.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/parallax-mountain-trees.xnb","TextureProcessor","Texture2DContent",4500,348245,0.0126162
+"/home/ezroot/Repos/EndlessRunner/Content/slide-sheet.png","/home/ezroot/Repos/EndlessRunner/Content/bin/DesktopGL/Content/slide-sheet.xnb","TextureProcessor","Texture2DContent",1013,129109,0.0046184

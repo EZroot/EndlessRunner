@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ezroot/.dotnet/store/|arch|/|tfm|",
+      "/home/ezroot/.nuget/packages"
+    ]
+  }
+}
